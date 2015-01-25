@@ -1,7 +1,7 @@
 Practical Machine Learning Project - Quantified Self Data Analysis  
-====================================
-## Assignment  
+==================================================================
 
+### Assignment  
 Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about 
 personal activity relatively inexpensively. These type of devices are part of the quantified self movement – a group of 
 enthusiasts who take measurements about themselves regularly to improve their health, to find patterns in their behavior, 
