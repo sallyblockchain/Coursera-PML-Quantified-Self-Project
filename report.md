@@ -191,7 +191,7 @@ oose
 ```
 ## [1] 0.006966865
 ```
-So, the estimated accuracy of the model is 99.42% and the estimated out-of-sample error is 0.58%.
+So, the estimated accuracy of the model is 99.30% and the estimated out-of-sample error is 0.70%.
 
 ## Predicting for Test Data Set
 Now, we apply the model to the original testing data set downloaded from the data source. We remove the `problem_id` column first.  
